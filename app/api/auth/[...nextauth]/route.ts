@@ -9,7 +9,7 @@ export const authOptions: AuthOptions = {
     }),
   ],
   pages: {
-    // pakai halaman sign-in bawaan NextAuth, bisa diganti custom nanti
+
   },
 };
 
