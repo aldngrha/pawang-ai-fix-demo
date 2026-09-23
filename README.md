@@ -5,7 +5,7 @@ Landing page super simpel: judul "Pawang AI" + tombol **Masuk** dan **Daftar Gra
 ## 1. Install dependencies
 
 ```bash
-npm install
+pnpm install
 ```
 
 ## 2. Bikin Google OAuth Client ID
@@ -33,7 +33,7 @@ NEXTAUTH_URL=http://localhost:3000
 ## 4. Jalankan
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 Buka http://localhost:3000 — akan muncul tulisan "Pawang AI" dan dua tombol yang langsung mengarahkan ke Google sign-in.
