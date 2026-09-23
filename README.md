@@ -21,7 +21,7 @@ pnpm install
 
 ## 3. Isi environment variables
 
-Copy `.env.local.example` jadi `.env.local`, lalu isi:
+Copy `.env.local.example` jadi `.env.local` atau `.env`, lalu isi:
 
 ```
 GOOGLE_CLIENT_ID=...
